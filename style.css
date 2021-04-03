@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+img{
+    height:500px;
+        width:500px;
+}
+#mycarousel{
+    background-color: bisque;
+}
+#mycarousel img{
+    height: 500px;
+    width: 50%;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: chocolate;
+    font-size: 20px;
+}
